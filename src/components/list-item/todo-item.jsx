@@ -1,7 +1,9 @@
 const TodoItem = () => {
     return(
-        <>
-        </>
+        <div>
+            <p>{text}</p>
+            
+        </div>
     )
 }
 
